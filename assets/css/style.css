@@ -1,0 +1,75 @@
+#animalHeader {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin: 0;
+	
+}
+
+h1 {
+	font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+
+#animalButtons {
+    background-color: white;
+    border: 2px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 100%;
+
+}
+
+
+#animal-form {
+	position: center;
+	background-color: white;
+	width: 40%;
+	margin-left: 400px;
+	margin-top: 40px;
+	text-align: center;
+	padding-bottom: 20px
+	padding-top: 200px;
+
+}
+
+#animal {
+	position: relative;
+	display: inline-block;
+	margin: 0 40px 0 0;
+	background-color: white;
+	color: black;
+	padding: 10px;
+	width: 90%;
+	margin-left: 75px;
+	
+
+}
+
+img {
+	position: relative;
+	display: inline-block;
+	float: left;
+	max-width: 250px
+}
+
+p {
+	position: relative;
+	display: inline-block;
+	float: left;
+}
+
+
+
+#addAnimal {
+	
+}
+
+body {
+	background-image: url("http://blogs-images.forbes.com/kristintablang/files/2016/02/Uber-Puppies.jpg");
+}
